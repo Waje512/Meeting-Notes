@@ -9,5 +9,3 @@
 - How to set deadlines to Milestone.
 - Define each Milestone in more detail.
 - Identify the key Milestones.
--
-- 
